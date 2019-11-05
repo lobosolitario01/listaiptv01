@@ -2,7 +2,7 @@
 #EXTINF:-1,GLOBO NSC
 https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty0mdGXndi1/a/BZiYnJCZy2GXnty0mdGXndi1/360p/chunks.m3u8?ch=BZiYnJCZy2GXnty0mdGXndi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDU4MTcsImlhdCI6MTU3Mjk4NzgxNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.nXKoyZ3SqPVrmfulw7jq5bISjsj_dpu3s_GmuQbFYPs
 #EXTINF:-1,GLOBO RJ HD
-http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=BZiYnJCZy2GXnty0mdGXndi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDU4MTcsImlhdCI6MTU3Mjk4NzgxNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.nXKoyZ3SqPVrmfulw7jq5bISjsj_dpu3s_GmuQbFYPs
+http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=BZiYnJCZy2GXnty0mdGXndi1&t=ScJMXlygWwcfOQE6tBjFAA&expires=1572997436
 #EXTINF:-1,GLOBO RJ SD
 http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,BAND HD
@@ -36,11 +36,11 @@ http://us14.server.kp2kilo.xyz/HD_PFC_7/video.m3u8?token=3845388e6bc9362c35828ba
 #EXTINF:-1,PREMIERE 8 SD
 http://us14.server.kp2india.xyz/SD_PFC_8/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,PREMIERE CLUBE HD
-http://us14.server.kp2india.xyz/HD_PFC_CLUBES/video.m3u8?token=bba388e726f16d2be79f8fd56f33
+http://us14.server.kp2india.xyz/HD_PFC_CLUBES/video.m3u8?token=ScJMXlygWwcfOQE6tBjFAA&expires=1572997436
 #EXTINF:-1,PREMIERE CLUBE SD
-http://us14.server.kpfoxtrot.xyz/SD_PFC_CLUBES/video.m3u8?token=bba388e726f16d2be79f8fd56f33655c
+http://us14.server.kpfoxtrot.xyz/SD_PFC_CLUBES/video.m3u8?token=ScJMXlygWwcfOQE6tBjFAA&expires=1572997436
 #EXTINF:-1,SPORTV HD
-http://us14.server.kp2kilo.xyz/HD_SPORTV_1/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
+https://live.multicanais.com/mylive/sportvhd/chunks.m3u8?md5=ScJMXlygWwcfOQE6tBjFAA&expires=1572997436
 #EXTINF:-1,SPORTV SD
 http://us12.server.kkdelta.xyz/SD_SPORTV_1/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,SPORTV 2 HD
