@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,GLOBO NSC
+https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty0mdGXndi1/a/BZiYnJCZy2GXnty0mdGXndi1/360p/chunks.m3u8?ch=BZiYnJCZy2GXnty0mdGXndi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDU4MTcsImlhdCI6MTU3Mjk4NzgxNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.nXKoyZ3SqPVrmfulw7jq5bISjsj_dpu3s_GmuQbFYPs
 #EXTINF:-1,GLOBO RJ HD
 http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,GLOBO RJ SD
