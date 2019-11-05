@@ -7,7 +7,8 @@ http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=BZiYnJCZy2GXnty0md
 http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,BAND HD
 https://expertsplay.com.br/media/n/BZe4ntu2y2GXnq/a/BZe4ntu2y2GXnq/720p/chunks.m3u8?ch=BZe4ntu2y2GXnq&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDYyNjMsImlhdCI6MTU3Mjk4ODI2Mywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.uJCi6y1Cr9My-kgDQ9kKVbPujiFVPU-ZLmpO21QckUY
-#EXTINF:-1,BAND SD
+#EXTINF:-1,RBA TV
+https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty4mdu2mJi1/a/liven/ch_o22673ch1568056225_720p.stream/chunks.m3u8?ch=BZiYnJCZy2GXnty4mdu2mJi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDk3MDcsImlhdCI6MTU3Mjk5MTcwNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.NJRxoULef2HF8jF7ZF_8dgkcbXrKBxlyQkpchSEaXuk
 #EXTINF:-1,FOX SPORTS HD
 http://us12.server.kklima.xyz/HD_FOX_SPORTS_1/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,FOX SPORTS SD
