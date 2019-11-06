@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1,GLOBO NSC
-https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty0mdGXndi1/a/BZiYnJCZy2GXnty0mdGXndi1/360p/chunks.m3u8?ch=BZiYnJCZy2GXnty0mdGXndi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDU4MTcsImlhdCI6MTU3Mjk4NzgxNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.nXKoyZ3SqPVrmfulw7jq5bISjsj_dpu3s_GmuQbFYPs
+https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty0mdGXndi1/a/BZiYnJCZy2GXnty0mdGXndi1/360p/chunks.m3u8?ch=BZiYnJCZy2GXnty0mdGXndi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwNzEwMzcsImlhdCI6MTU3MzA1MzAzNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0._Vdo8o5jHfbi_E5I-NjMD0ssd4nUBAX2U-51-zgcGbo
 #EXTINF:-1,GLOBO RJ HD
 https://live.multicanais.com/live/globosphd/chunks.m3u8?md5=4_FmVVGFwawE0TwJGGTUbQ&expires=1572997684
-#EXTINF:-1,GLOBO RJ SD
-http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
+#EXTINF:-1,RBA
+https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty4mdu2mJi1/a/liven/ch_o22673ch1568056225_720p.stream/chunks.m3u8?ch=BZiYnJCZy2GXnty4mdu2mJi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwNzA5OTUsImlhdCI6MTU3MzA1Mjk5NSwic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.oDJxSzT1MzsNFIx8q3vkkkjeoqvktDDIWpb9Mc47YNk
 #EXTINF:-1,BAND HD
-https://expertsplay.com.br/media/n/BZe4ntu2y2GXnq/a/BZe4ntu2y2GXnq/720p/chunks.m3u8?ch=BZe4ntu2y2GXnq&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDYyNjMsImlhdCI6MTU3Mjk4ODI2Mywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.uJCi6y1Cr9My-kgDQ9kKVbPujiFVPU-ZLmpO21QckUY
-#EXTINF:-1,RBA TV
-https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty4mdu2mJi1/a/liven/ch_o22673ch1568056225_720p.stream/chunks.m3u8?ch=BZiYnJCZy2GXnty4mdu2mJi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwMDk3MDcsImlhdCI6MTU3Mjk5MTcwNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.NJRxoULef2HF8jF7ZF_8dgkcbXrKBxlyQkpchSEaXuk
+https://expertsplay.com.br/media/n/BZe4ntu2y2GXnq/a/BZe4ntu2y2GXnq/720p/chunks.m3u8?ch=BZe4ntu2y2GXnq&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwNzA4NDYsImlhdCI6MTU3MzA1Mjg0Niwic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.XG_xWpxT_5Gkjr_T8b9n5lmzL2dt_VZHRAuRX54_AHQ
 #EXTINF:-1,FOX SPORTS HD
 http://us12.server.kklima.xyz/HD_FOX_SPORTS_1/video.m3u8?token=3845388e6bc9362c35828ba4a51ff0fe
 #EXTINF:-1,FOX SPORTS SD
