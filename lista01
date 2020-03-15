@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,GLOBO NSC
-https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty0mdGXndi1/a/BZiYnJCZy2GXnty0mdGXndi1/360p/chunks.m3u8?ch=BZiYnJCZy2GXnty0mdGXndi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwNzEwMzcsImlhdCI6MTU3MzA1MzAzNywic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0._Vdo8o5jHfbi_E5I-NjMD0ssd4nUBAX2U-51-zgcGbo
+#EXTINF:-1,GLOBO RJ
+http://fr.kjuliett.site/SD_GLOBO_RJ/video.m3u8?token=182481ed0daeba7b3c8b517a26d37547
 #EXTINF:-1,GLOBO RJ HD
 https://live.multicanais.com/live/globosphd/chunks.m3u8?md5=4_FmVVGFwawE0TwJGGTUbQ&expires=1572997684
 #EXTINF:-1,RBA
-https://expertsplay.com.br/media/n/BZiYnJCZy2GXnty4mdu2mJi1/a/liven/ch_o22673ch1568056225_720p.stream/chunks.m3u8?ch=BZiYnJCZy2GXnty4mdu2mJi1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwNzA5OTUsImlhdCI6MTU3MzA1Mjk5NSwic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.oDJxSzT1MzsNFIx8q3vkkkjeoqvktDDIWpb9Mc47YNk
+http://ge.server.kuniform.live/SD_BAND/video.m3u8?token=182481ed0daeba7b3c8b517a26d37547
 #EXTINF:-1,BAND HD
-https://expertsplay.com.br/media/n/BZe4ntu2y2GXnq/a/BZe4ntu2y2GXnq/720p/chunks.m3u8?ch=BZe4ntu2y2GXnq&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NzMwNzA4NDYsImlhdCI6MTU3MzA1Mjg0Niwic3ViIjoiZGVmYXVsdCMxNTY4MjIzNTE3In0.XG_xWpxT_5Gkjr_T8b9n5lmzL2dt_VZHRAuRX54_AHQ
+Idt_VZHRAuRX54_AHQ
 #EXTINF:-1,FOX SPORTS HD
 http://us12.server.kklima.xyz/HD_FOX_SPORTS_1/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,FOX SPORTS SD
@@ -65,6 +65,10 @@ http://us11.server.kfoxtrot.store/SD_ESPN_BRASIL/video.m3u8?token=5aba9ab204ff55
 http://us11.server.koscar.live/HD_FOX/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,FOX SD
 http://us11.server.kgolf.store/SD_FOX/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+#EXTINF:-1,SPACE HD
+http://us12.server.kkalfa.xyz/HD_SPACE/video.m3u8?token=182481ed0daeba7b3c8b517a26d37547
+#EXTINF:-1,SPACE SD
+http://fr.ktango.live/SD_SPACE/video.m3u8?token=182481ed0daeba7b3c8b517a26d37547
 #EXTINF:-1,TELECINE ACTION HD
 http://pl.server.kbravo.xyz/HD_TC_ACTION/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,TELECINE ACTION SD
@@ -114,7 +118,7 @@ http://us12.server.kkalfa.xyz/HD_HISTORY/video.m3u8?token=5aba9ab204ff55dec74965
 #EXTINF:-1,HISTORY SD
 http://eu.server.kudaplay.com/SD_HISTORY/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,DICOVERY TURBO HD
-http://us13.server.kkyankee.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+http://us13.server.khotel.store/HD_DISCOVERY_TURBO/video.m3u8?token=182481ed0daeba7b3c8b517a26d37547
 #EXTINF:-1,DISCOVERY TURBO SD
 http://ge.server.kvictor.live/SD_DISCOVERY_TURBO/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,CARTOON NETWORK HD
