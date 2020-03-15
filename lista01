@@ -114,7 +114,7 @@ http://us12.server.kkalfa.xyz/HD_HISTORY/video.m3u8?token=5aba9ab204ff55dec74965
 #EXTINF:-1,HISTORY SD
 http://eu.server.kudaplay.com/SD_HISTORY/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,DICOVERY TURBO HD
-http://pl.server.kbravo.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+http://us13.server.kkyankee.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,DISCOVERY TURBO SD
 http://ge.server.kvictor.live/SD_DISCOVERY_TURBO/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1,CARTOON NETWORK HD
