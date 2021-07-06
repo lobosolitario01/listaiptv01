@@ -1,132 +1,143 @@
 #EXTM3U
 #EXTINF:-1,GLOBO RJ  HD
-.http://45.88.99.55/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3Ysyh8zS-Dlh5Hnm3zr7SlmYI4oSp8kZtWQlR1QXAugKOcZB9rnW2MjB9XuFXPzlbWaHdSmRrMGsIVPDWCAJ91
+http://x00.so/live/i7mateusst/i7AxZa/72026.m3u8
 #EXTINF:-1,GLOBO RJ  SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3iFcW0Zka74h2CCwaPq3F9vf04tVInPmUKRMv-DyLDJ9fIyqExw0kmf2XFcNLSkuvjiwUJS1X_nzSUSP1hI2uG
+http://x00.so/live/i7mateusst/i7AxZa/72027.m3u8
 #EXTINF: -1, SBT HD
-http://139.28.25.215/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3QCi7KSS2cud_m0Fqo3ZF4Tcm3WWSLskvpn3OdTf0kQOOdfiOCeYwoiuxdagPpgY0vqCeERbFfjsgapjqr74_m
+http://x00.so/live/i7mateusst/i7AxZa/72598.m3u8
 #EXTINF: -1, SBT SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3k_0nyFp64klWHBxpRy8VgPer-wiz68FPowVlasw48MNjggjCZrNjiD9GECULDc6l0nUDIfxXlOMTNiayN1ZHh
+http://x00.so/live/i7mateusst/i7AxZa/77964.m3u8
 #EXTINF:-1,BAND HD
-http://139.28.25.210/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3_rQIW19-IsQhJ7qjIS0umklDWdsTQCRwrtmMLiBoC0SVf93A4oyylUP2oPunQFZhyM3BcSdYAi93tsNQ3I_B-
+http://x00.so/live/i7mateusst/i7AxZa/72597.m3u8
 #EXTINF:-1,BAND SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2ySf9CyXsCyP9SFT66J148vBxbgBIXD8RFUxnlw40ybTB5AK_9JifG7veK0MRQ7Rts2FdI9TsfSCH-MSU34m0j
+http://x00.so/live/i7mateusst/i7AxZa/79312.m3u8
+#EXTINF: -1, COMEDY CENTRAL HD
+http://x00.so/live/i7mateusst/i7AxZa/71849.m3u8
+#EXTINF: -1, COMDEY CENTRAL SD 
+http://x00.so/live/i7mateusst/i7AxZa/71850.m3u8
 #EXTINF:-1,FOX SPORTS HD
-http://45.88.99.22/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3GSQr79VrdXnSuTDG_rkkreQJ7kuzHtYsnxA6AZgSeMSFC6UHeUJEg-SWc7kGTYDezT_lJRpk7mhbZ1a3Bwn9_
+http://x00.so/live/i7mateusst/i7AxZa/71960.m3u8
 #EXTINF:-1,FOX SPORTS SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3viv22hokjwK720yfWn11bgkOB98qQXgblmk_wMCyN8UqQvR3TXyxd_mBr1Lmm2IaMHNhvkYS4Rz9ZbpQmvciR
+http://x00.so/live/i7mateusst/i7AxZa/71961.m3u8
 #EXTINF:-1,PREMIERE 2 HD
-http://139.28.25.212/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0vMindz8xV19y1E956Jdd72aeKisNKZGQdW6aPWuZgDWSwuNIGKSF5EU2nL2YJQl3Rz2vyMI2n196HyX-C1IaU
+http://x00.so/live/i7mateusst/i7AxZa/72239.m3u8
 #EXTINF:-1,PREMIERE 2 SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0_1YAj1iG29cNNscb_VGTzjfdgdwhquvT_52T-ptxd57loXKNPy-PdZ9CwI23zBTZY3sPBZHwseclnqZpL1h-r
+http://x00.so/live/i7mateusst/i7AxZa/72240.m3u8
 #EXTINF:-1,PREMIERE 3 HD
-http://45.88.99.55/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2YPAfTR8L8WiGANUXQ5itiv4JTEG4cWfDVCD3Eccz2Yc1ljH98V_aa94MiBIW7R1s3fEWWEvFR1pBrvX7UuxbR
+http://x00.so/live/i7mateusst/i7AxZa/72243.m3u8
 #EXTINF:-1,PREMIERE 3 SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0jR_D_v1sLwlppz4F7LmxA1uZ2OUg8ZgOciZ_vTdGV8MfSuqeJbGEiMI-FOsJb8wk-SiW_GJjSY0gwzocDH40S
+http://x00.so/live/i7mateusst/i7AxZa/72244.m3u8
 #EXTINF:-1,PREMIERE 4 HD
-http://45.88.99.32/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0jwv8W_m3Kbi0Cm_h2Oad7CDhsC1YvrXpdkd9i1X3RxrBogCuw5k_qLOrsSI7QR5CjB1wpvgENKFda9-tXn8P9
+http://x00.so/live/i7mateusst/i7AxZa/72247.m3u8
 #EXTINF:-1,PREMIERE 4 SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3HRn-D6dzYOv2VQvMeeV9DYXsbreZ--HtmppKteD2FtLyRiaYGjzDnXPMuXQfxcW6vrLibgU66CoaZ9eW63TIt
+http://x00.so/live/i7mateusst/i7AxZa/72248.m3u8
 #EXTINF:-1,PREMIERE 5 HD
-http://45.88.99.57/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1RWw-1Hq7fMXd7ladtMEhVjhwBqze-FtYxVO3Ml6KqcPWVpJwBbFMVkTVYhSi6KWnb8IfVMARrj0j5M-V_xVHK
+http://x00.so/live/i7mateusst/i7AxZa/72251.m3u8
 #EXTINF: -1, PREMIERE 5 SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3MdqzNhiHmXJqHrywbZeGCUE47Pa5bVRtKHmqFuGeRhw9eUknxtH1OjQQkXFWOgLVJGQe6o9y_4VDJYqkVDwFr
+http://x00.so/live/i7mateusst/i7AxZa/72252.m3u8
 #EXTINF:-1,PREMIERE 6 HD
-http://139.28.25.211/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1Beuglp3jWFQ8QdJrWih-9LL2stkEVB2VeDJIBW1ZqclEUz5JuUw0oRsn1VXVHBgVD9omEk_KxdFpvsDEzyLe
+http://x00.so/live/i7mateusst/i7AxZa/72255.m3u8
 #EXTINF:-1,PREMIERE 6 SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2dhY2zjCd7955kdswz4Zr1g7ACACC0Hv6rIb79yBUWFzB01Y3ocvwglftFS1G4p2VQbTEDMNrLj4w6Add-41O_
+http://x00.so/live/i7mateusst/i7AxZa/72256.m3u8
 #EXTINF:-1,PREMIERE 7 HD
-http://45.88.99.17/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3QN84wHliEhTLUdZN6_yCZsf3KSYH65XyHBhFuXYoUDIcpVfmtZdjRn5FoJ_MLunI20hPp_u7KqjuVVLizwu_j
+http://x00.so/live/i7mateusst/i7AxZa/72259.m3u8
 #EXTINF:-1,PREMIERE 8 SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1l9SPOHpp23eKUWZ7YvuOc3tE3MIvY_xEetY09TJLnR4hRaHeu4p7KjJJ5T8BMq5aPDyx5qNy7ipZ5853AsgwO
+http://x00.so/live/i7mateusst/i7AxZa/72261.m3u8
 #EXTINF:-1,PREMIERE CLUBE HD
-http://45.88.99.56/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm34Qt2yrjubbJ2cLLqeSuw0TqZsd50CfE8jVtRmZnjlLiRPriWCn5FrmnQ1wfDYp_Pcp5SWTJmA876Rnsxinabj
+http://x00.so/live/i7mateusst/i7AxZa/72265.m3u8
 #EXTINF:-1,PREMIERE CLUBE SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm31-TuHj5iO18mQLNbAUkV9hkfumJ-o_Tv-RmUyvKc6nruTu7WfQ0dasffndWrvqUmlchBGYbHgXnH9ke-zjlTI
+http://x00.so/live/i7mateusst/i7AxZa/72266.m3u8
 #EXTINF:-1,SPORTV HD
-http://139.28.25.215/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm24LgchGA4jYEw_8vc2z2RpXIO-sooA_3GNOk-GOSwVZjS1K-ug3jIt11nPLulMcYhNPzmZDQ5aFJt2qDwDaixi
+http://x00.so/live/i7mateusst/i7AxZa/72332.m3u8
 #EXTINF:-1,SPORTV SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3Z4k8YTNptyKLGVDQxSYIk-njUR6bDj0yWs6c2TpxjFKB0pMsLVwN1gdpU3lf9g8P1zIKZmnBUJzkyIvfTYh8v
+http://x00.so/live/i7mateusst/i7AxZa/72333.m3u8
 #EXTINF:-1,SPORTV 2 HD
-http://45.88.99.22/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3pPPXEHCIkuVwoWBbIXGu7GNUkpBmdsbfekdZuacZyhyBgg37uJU8lGcC-a3o4qmJQU7SepO97jdToPSFbbFRz
+http://x00.so/live/i7mateusst/i7AxZa/72323.m3u8
 #EXTINF:-1,SPORTV 2 SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2CsNP53HWs4asyoSbriLtTLZaM8L-6699meKtmwBu0icDvZFU--ortWq94RQOIkMvgK5vq27A4tVOOaYea3LG4
+http://x00.so/live/i7mateusst/i7AxZa/72324.m3u8
 #EXTINF:-1,SPORTV 3 HD
-http://139.28.25.209/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm12CUqs37wSIHNfpsjFBGrlsgkBkuGdzoCnVLrn3vlFlnzyMtyL-b0KLcaRRSp1VmGPk6prXOGpyjDigS9yLbXm
+http://x00.so/live/i7mateusst/i7AxZa/72327.m3u8
 #EXTINF:-1,SPORTV 3 SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm16abVfxg9EU6UBEtdRpDmiEQsRPb5IPOXvFhgYmDmt3wlYsgOdQvKa-9B0-ALvPVjLwpmQdUtW96l8yj_ZeNPO
+http://x00.so/live/i7mateusst/i7AxZa/72328.m3u8
 #EXTINF:-1,COMBATE HD
-http://139.28.25.224/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1_53nFJGpjvVG7TQaSFvBuR1j39z6c_vN-bs92JrDJ-T94AtQUzCKCago2UJBVJgVdBA8cbCM-VRZhfhytsSjK
+http://x00.so/live/i7mateusst/i7AxZa/71845.m3u8
 #EXTINF:-1,COMBATE SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm25-R6JBgUBdJD0h0kYxEAvhOGft859Sj3TRldc_yMyuRP3RTsR2DC4KTiceyQtd84kTGWPP5x82FkYTgg0tDcb
+http://x00.so/live/i7mateusst/i7AxZa/71846.m3u8
 #EXTINF:-1,ESPN HD
-http://45.88.99.32/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1rP78mqYvDiQv1bdKKgZxTu-LhD3GrNc3OO2MxVrXR7DmzPmWBebpvuoICUG30zNQNROyJY1uHbmTKGg149e9C
+http://x00.so/live/i7mateusst/i7AxZa/71922.m3u8
 #EXTINF:-1,ESPN SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2ViyYQsUqn97rps1YhqgTPkQeihTvLrO_smNPJZAolDD0qFlNVHaFr-G9O0guAz8VPd6xbQbFvqJj0g1Ry7iu8
+http://x00.so/live/i7mateusst/i7AxZa/71923.m3u8
 #EXTINF:-1,ESPN BRASIL HD
-http://139.28.25.215/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2xv5fK1O7h_NmeXixO-LrIPcAWRWGCOYUhL9bLs77MikkI3CleUGbQpv6Hx_ZUlz1Jiah_15PlSYbKkGLMvsZB
+http://x00.so/live/i7mateusst/i7AxZa/71913.m3u8
 #EXTINF:-1,ESPN BRASIL SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3wi8OfI2LttR4NVf74BS5mVTQJhylm4Y0xZhWLE4q1_CSIv1TXUpTX_uAL3mew9ubFvvYqT76gf_VPemLznCHr
+http://x00.so/live/i7mateusst/i7AxZa/71914.m3u8
 #EXTINF:-1,SPACE HD
-http://139.28.25.210/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0jBpX_byRf807dancBRam_bBwyUev1dQB7WbG11PtAVtkhQcAiokliURsxVT7ui1m__W4-oQlFc7YkohnS8iZI
+http://x00.so/live/i7mateusst/i7AxZa/72319.m3u8
 #EXTINF:-1,SPACE SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1OTOtVsJFpv0kalrWOCfk4BRTILqIS9yB3RBdh-jyWEsxsM3w1tlVoGjSs4MiYowROs3UHr2GEvTzNdhInxhAK
+http://x00.so/live/i7mateusst/i7AxZa/72320.m3u8
 #EXTINF:-1,TELECINE ACTION HD
-http://139.28.25.224/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1zUMmsVNjmL3Jl9991lGQA2DQkkjZdBO_N5LJ3yDo3fIOo9JARZRcuzQGA5FzBsi9HhCycDZYUtIrlQVI7rt8z
+http://x00.so/live/i7mateusst/i7AxZa/72348.m3u8
 #EXTINF:-1,TELECINE ACTION SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2ujngYPv6_mn2JQrKrGVqcgyoSewWTW8Z9EErqOprNPVxF8vIOtSlADhKWdFYz-tPOziFab-5YFN8Rvnh0fnTR
+http://x00.so/live/i7mateusst/i7AxZa/72349.m3u8
 #EXTINF:-1,TELECINE FUN HD
-http://45.88.99.32/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm13kerjxy5lBKAasndAiuKqpSBZI6Q1oAs1HEEHkLuVsImtX8tIittSrPwpySIP25QxzPMzm7aysbotHHhhOy3p
+http://x00.so/live/i7mateusst/i7AxZa/72356.m3u8
 #EXTINF:-1,TELECINE FUN SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0sbuDYkYwNZ78b-wpwUq2amogJNP54pS_udyrIWqBvSxN5mPQRgB_BZPKCs0UC6je7H0CXhWJCQBAdE89DvLLx
+http://x00.so/live/i7mateusst/i7AxZa/72357.m3u8
 #EXTINF:-1,TELECINE PIPOCA HD
-http://139.28.25.209/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3JL6Dr3xJmut9t4ymLaA3_NtOpGL3xla1hp2-9ACq3NMGH3K_39i1E6n3xpqL58om4_GcchfzYpTplNxQqIagR
+http://x00.so/live/i7mateusst/i7AxZa/72360.m3u8
 #EXTINF:-1,TELECINE PIPOCA SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3YS90S9BPSFZIURkl9u8lxcGQHe5MGTyB4ASOLvl1A80rcp7VuTGsZmA6RGLcCOTkm_aAxedQfIj5dczwTaWYp
+http://x00.so/live/i7mateusst/i7AxZa/72361.m3u8
 #EXTINF:-1,TELECINE PREMIUM HD
-http://139.28.25.212/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0psiEwIok70tM2gDKHQLn7JW9XpRYgp7d7UgJ1fbPIkZ5F9KJ-Sl6I8MijyvBn69cJlZWZUwTIBl4krNqOVXSF
+http://x00.so/live/i7mateusst/i7AxZa/72364.m3u8
 #EXTINF:-1,TELECINE PREMIUM SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm22vuHn6RVgkzTCnIewQOLN038idAFGgB7oznQNrQMly8pDkR4Z4gV7_gBjOP-sXuipMqGTv0gBHVrKaiGVG_dX
+http://x00.so/live/i7mateusst/i7AxZa/72365.m3u8
 #EXTINF:-1,TELECINE TOUCH HD
-http://139.28.25.224/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3NpQNGaoY9sowLO_naOH0tl8_tj9Jog4RmvVxq9rtULPgORgVv8U1VyOYS6vWFMFj7N8H2PUfhBYYHPf6cYPof
+http://x00.so/live/i7mateusst/i7AxZa/72368.m3u8
 #EXTINF:-1,TELECINE TOUCH SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2LjpgL-p2vgPbHKvHEYF7uYiZqgpgNF1szBSlBJgBF-4s9z6owGgZmyc7aZbbL_20DTSMjMyEKB-Xp5RfmNkWz
+http://x00.so/live/i7mateusst/i7AxZa/72369.m3u8
 #EXTINF:-1,WARNER HD
-http://45.88.99.55/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0KcBllOVz4cJ3oga8gJH_-m1aghEem1iOE_g1JgJ-cXkYN-h2QPPmvJ5EZz6Q3xijRc_OK7i3K6zXT2C3lsPTd
+http://x00.so/live/i7mateusst/i7AxZa/72433.m3u8
 #EXTINF:-1,WARNER SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0C8nHByQdaNligdCrhDlmgnZfttVLm3wW27HOQBcZ3cjuydn2nCpX1_Qj6vwuIzgc6IB1bfooEfIl3HarF5itt
+http://x00.so/live/i7mateusst/i7AxZa/72434.m3u8
 #EXTINF: -1, HBO HD
-http://45.88.99.14/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm24IvoWEK7zTOMDKEoyKp5dvvmS2p-ciT_1ek3gbJ6vjT45YL0ag3hggXGafosN5LcJNJj_bV2kk-2qpdR3P-hV
+http://x00.so/live/i7mateusst/i7AxZa/72118.m3u8
 #EXTINF: -1, HBO SD
-http://45.88.99.17/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3M-_KE7_8wptABbgtyKKZX9ayz8lFXuR6grLHK4yzXt4qKaR_cv5RnkR99qj4y4kDfwuI2dQzgTC96jrxgki0z
+http://x00.so/live/i7mateusst/i7AxZa/72120.m3u8
 #EXTINF:-1,HBO 2 HD
-http://139.28.25.224/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3yxrYid2VMDQgTFs60O-MCoHaKrM7ggoExCXYxextqGHWTG7aBvgBBPrPdbBEW31AUqcGwSzKGVLVnPrAjH9Eh
+http://x00.so/live/i7mateusst/i7AxZa/72112.m3u8
 #EXTINF:-1,HBO 2 SD
-http://45.88.99.61/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3lgcDW6cZGVnEb0q47mMrKt5PSFUH_3kgyHH3-wKg8htRS4rGjRy2JoeNXFptFL9G-HBCQogigYNyChaP0FKtA
+http://x00.so/live/i7mateusst/i7AxZa/72113.m3u8
 #EXTINF:-1,HBO FAMILY HD
-http://139.28.25.212/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2ZX1tGrsdfmKsPF-85eCvE3hlDhf4wG61VYIFX_STD2hNfr6GcAD3oS2awfcc_ISsrKFbhfGMKffRKpJsH2ybY
+http://x00.so/live/i7mateusst/i7AxZa/72116.m3u8
 #EXTINF:-1,HBO FAMILY SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2acXkpUeHfZ_s4fZemCYSUIzYSlsWRC-zBvdyOm92EA3OtEAJejgPn5yTSWrP03ROxt9uu8ggvaVlXpfOh6Vxr
+http://x00.so/live/i7mateusst/i7AxZa/72117.m3u8
 #EXTINF:-1,HBO PLUS HD
-http://45.88.99.56/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1qNHq5rcfD8z_2DFXoq8NWihbFR5WXhVJQdGzhKdFuohz-KfKH2T4TU7dI-DTilgEnc02J_GWs2Ql0tVmbHE16
+http://x00.so/live/i7mateusst/i7AxZa/72127.m3u8
 #EXTINF:-1,HBO PLUS SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm3zOYBeOv_Xb-DY432Dxb6NO4esAQ_5tq_TAv_RpOxb1l5tV0xsdL0i8x25tKtrGgOn7JxEqUUGtXor2XnAtuMq
+http://x00.so/live/i7mateusst/i7AxZa/72128.m3u8
 #EXTINF:-1,MEGAPIX HD
-http://139.28.25.211/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm34thcPy_VBQnEhQkA4BirSSo6l8xAZHMe3IuWQK1YvP5mcvxr6pr-LLRDqKaN_Gl2CRJT4tJ28fgSTOWGKB42H
+http://x00.so/live/i7mateusst/i7AxZa/72169.m3u8
 #EXTINF:-1,MEGAPIX SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0omLwbzDgtoHi4lTa2nAAo67kTgDFSTazend8QjsFVkpcJd2jBuCEcWEtPROFrdQc80ZYajTUzQO7r_LmpH2nP
+ttp://x00.so/live/i7mateusst/i7AxZa/72170.m3u8
 #EXTINF:-1,HISTORY HD
-http://139.28.25.212/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1384l3F9-i5bi84R_ZcpUrYq4QobJoFsKAy5ziLBY6WeXcQq_GZllbUdIqwDlX58pbTT4dgzArWsxWTPYGbNca
+http://x00.so/live/i7mateusst/i7AxZa/72148.m3u8
 #EXTINF:-1,HISTORY SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2KRN84E7lwB0Kp98fQZXEFRpaD8eEb_68m6WcowIPKaMZrH8-boIAmJmnR71QymIdYQYvNnuqi9tfeRSvm8byC
+http://x00.so/live/i7mateusst/i7AxZa/72149.m3u8
 #EXTINF:-1,DICOVERY TURBO HD
-http://45.88.99.22/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm2TL5gnUVHm9eJzruIz8zETLSvK2O6NIv7nXvXVEwPHaFTiqWbxmJdUV_258M1KdJXYrs3wz2vKxC1W0i_Bi2cf
+http://x00.so/live/i7mateusst/i7AxZa/71885.m3u8
 #EXTINF:-1,DISCOVERY TURBO SD
-http://139.28.25.222/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0ECTc1v5-p4usUxspB5wDi6emL6mtf7ccMj6-LhpyAcVI7j7ycqqquI-lvBGCZlupckADiedu2cxs6kuqeV2G_
+http://x00.so/live/i7mateusst/i7AxZa/71886.m3u8
+#EXTINF:-1,DISCOVERY H&H HD
+http://x00.so/live/i7mateusst/i7AxZa/71869.m3u8
+#EXTINF:-1,DISCOVERY H&H SD
+http://x00.so/live/i7mateusst/i7AxZa/71870.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://x00.so/live/i7mateusst/i7AxZa/71865.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://x00.so/live/i7mateusst/i7AxZa/71866.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
-http://139.28.25.212/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm0MzQ5AdRJ_YeYdhu38gqyN_mPuQPWLqjbiIDlL0QPc_Ngfac5a6F_cc3CXX_uA8beJEiPu2FJ6q6nXHpHt9HbI
+http://x00.so/live/i7mateusst/i7AxZa/71831.m3u8
 #EXTINF:-1,CARTOON NETWORK SD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm03yRJmYanbGde03WQWD_GkrnjBohLrQi-e6nCoBkIHbdhNLkj4ZUYFeGShPFG1nRkiylmf9c3r820Pg5fo3k19
+http://x00.so/live/i7mateusst/i7AxZa/71832.m3u8
 #EXTINF:-1,DISNEY XD HD
-http://45.88.99.62/hls/3kzkMFA8Go0cDCABCw9hxn2cLO-mi7_29jSX3wggJm1pvV3C7DlEiiC9CTbBgMXCOgA8TbAM9SBxaiI99nzWuU5ZIaIhooMY42Cdv7je7UcX6g4Itpja-Pw-TWaMazoW
-
+http://x00.so/live/i7mateusst/i7AxZa/71899.m3u8
